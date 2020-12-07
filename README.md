@@ -179,11 +179,12 @@ three notebooks, and the evaluation might be slightly different after running th
 @article{
   title={Precise Detection of Alzheimer's Disease With Graph-Regularized Learning},
   author={Kuo Yang, Emad Mohammed, Behrouz H. Far},
-  affiliation={Deparment of Mechanical Engineering, Deparment of Software Engineering, Lakehead University, Deparment of Software Engineering, Calgary University}
+  affiliation={Deparment of Mechanical Engineering, Deparment of Software Engineering, Lakehead University,  Department of Electrical and Computer Engineering
+, Calgary University}
   year={2020}
 }
 ```
 ## Contact
 * K. Yang: kyang3@lakeheadu.ca
 * E. Mohammed: emohamme@lakeheadu.ca
-* Behrouz H. Far: ?????
+* Behrouz H. Far: far@ucalgary.ca
