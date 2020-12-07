@@ -111,11 +111,9 @@ constructed with both train and test MRI images in experiment II while only trai
 in the following workflow digrams. 
 
 **EXPERIMENT II WORKFLOW**
-
-??????????????????????
+![AD Project Diagrams - whole process(1)](https://user-images.githubusercontent.com/55723894/101302981-fec3b800-380a-11eb-9348-e5b2216a5c22.jpeg)
 
 **EXPERIMENT III WORKFLOW**
-
 ![AD Project Diagrams - whole process II](https://user-images.githubusercontent.com/55723894/101302912-d76ceb00-380a-11eb-9ce0-cbd6fdc67dce.jpeg)
 
 #### Notebook Structure
