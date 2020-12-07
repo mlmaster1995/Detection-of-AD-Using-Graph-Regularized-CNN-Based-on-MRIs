@@ -170,10 +170,7 @@ tfr_list = [f'{root_path}{label}.tfr' for label in label_list]
 GraphDataProcess.generate_tfr_raw(path_list=path_list, tfr_list=tfr_list)  # needs to comment out  
 ```
 ## Reproducing Paper Tables
-There are 3 experiment conducted in this project. However, the experimental tables in the paper refers to the experiment I and experiment III. The experiment II is the extra 
-experiment I implement to examine the effect of different graph construction on the model performance. The major workflow difference has been showed in the previous section.  
-All the metrics are collected from the notebook to construct all tables. For experiment I and II, all training process and evaluation are printed in the 
-three notebooks, and the evaluation might be slightly different after running the notebook, but it shouldn't have big differences.
+There are 3 experiment conducted in this project. However, the experimental tables in the paper refers to the experiment I and experiment III. The experiment II is the extra experiment I implement to examine the effect of different graph construction on the model performance. The major workflow difference has been showed in the previous section. All the metrics are collected from the notebook to construct all tables from experiment I and III.
 ## Citing This Work
 ```
 @article{
