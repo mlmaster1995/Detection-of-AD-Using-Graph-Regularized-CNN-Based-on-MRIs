@@ -116,7 +116,7 @@ in the following workflow digrams.
 
 **EXPERIMENT III WORKFLOW**
 
-??????????????????????
+![AD Project Diagrams - whole process II](https://user-images.githubusercontent.com/55723894/101302912-d76ceb00-380a-11eb-9ce0-cbd6fdc67dce.jpeg)
 
 #### Notebook Structure
 The external python files need to be imported for both Experiment I, II and III notebooks.  
