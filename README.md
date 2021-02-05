@@ -1,8 +1,6 @@
 # Detection of Alzheimer’s Disease Using Graph-Regularized Convolutional Neural Network Based on Structural Similarity Learning of Brain Magnetic Resonance Images
 ![Hex.pm](https://img.shields.io/hexpm/l/plug?logo=Apache&logoColor=%23ff0000&style=flat-square)
 
-**NOTE**: This work is under review by the IEEE Transactions on Pattern Analysis and Machine Intelligence. If you want to use this work, you must cite it in your work.
-
 ## Table of Contents
 
 * [About the Project](#about-the-project)
