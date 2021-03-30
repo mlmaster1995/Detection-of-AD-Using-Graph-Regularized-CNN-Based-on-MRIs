@@ -35,7 +35,7 @@ class GraphDataProcess(object):
     @staticmethod
     def setup_train_test_folders(root_path, label_list, ratio):
         """
-            This function is to create both train and test folders with all label subfolders under root_path. The MRI
+            This function is to create both train and test folders with all label sub-folders under root_path. The MRI
             images are divided and copied to train and test based on the ratio under the root_path.
 
             arg:
@@ -46,7 +46,7 @@ class GraphDataProcess(object):
                 N/A
         """
 
-        # copy mir images
+        # copy mri images
         def copy_mri(src_path, target_path, label_index):
             name_is_new = True
             target_name_list = os.listdir(target_path)
