@@ -18,7 +18,7 @@ under the License.
 """
 import tensorflow as tf
 import numpy as np
-from graph_data_processing import GraphDataProcess
+from python_files.graph_data_processing import GraphDataProcess
 
 
 class KMeans(object):
