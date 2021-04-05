@@ -306,6 +306,7 @@ class GraphDataProcess(object):
                 image_dataset_list: tf.data.TFRecordDataset with batch size at "1";
                 aae_model: trained Adversary Autoencoder model;
                 tfr_rep_path: a list of tfr file paths to save represents of images;
+
             return:
                 N/A
         """
