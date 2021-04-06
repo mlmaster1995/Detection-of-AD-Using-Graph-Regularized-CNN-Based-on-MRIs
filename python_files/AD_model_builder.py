@@ -332,7 +332,7 @@ class ADModelBuilder(object):
             ipt = tf.keras.Input(shape=self._input_shape, name='tensor')
             opt = vgg19_layer(ipt)
             opt = tf.keras.layers.Flatten()(opt)
-            opt = tf.keras.layers.Dense(64)(opt)
+            opt = tf.keras.layers.Dense(32)(opt)
             opt = tf.keras.layers.BatchNormalization()(opt)
             opt = tf.keras.layers.LeakyReLU()(opt)
             opt = tf.keras.layers.Dropout(0.5)(opt)
